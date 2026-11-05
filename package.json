@@ -1,0 +1,8 @@
+{
+  "name": "rouba-bichos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Servidor de salas do Rouba Bichos 3D",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
